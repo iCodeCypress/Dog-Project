@@ -1,0 +1,27 @@
+button{
+    color: crimson;
+}
+
+.Angel{
+    color:firebrick;
+    text-align:center;
+}
+
+img{
+    border: 10px dashed gold;
+}
+
+.artic{
+    display: flex;
+    justify-content: center;
+}
+canvas{
+ background-color: aqua;
+}
+ol{
+    color:dark blue
+}
+
+body{
+    background-color: navy;
+}
